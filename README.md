@@ -1,1 +1,1 @@
-"# template-use-speckit-repo-base" 
+Template base para ser usado em outros repositórios (novos ou já existentes) para utilizar a estrutura e skills do Spec-kit e também do Jira, de forma a utilizar informações presentes no card para interagir com o repositório e a LLM, sendo possível também o sentido inverso, ou seja, ações realizadas na LLM refletir em ações no Jira.
